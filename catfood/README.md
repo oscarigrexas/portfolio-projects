@@ -9,4 +9,4 @@ Also, the writer of the website decided to rate all of the different brands by g
 
 Please read through the Jupyter notebook ```catfood.ipynb``` to follow my whole thought process and check what conclusions and results I obtain! :)
 
-Tools: Scrapy, Seaborn, scikit-learn
+Tools: scrapy, seaborn, scikit-learn
