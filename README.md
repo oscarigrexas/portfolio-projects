@@ -32,7 +32,7 @@ Tools:
 
 
 ## pollution
-A toy project where I import data from meteogalicia and look for recent tendencies in the levels of common air pollutants with the ojective of checking if the recent decrease in traffic has impacted contamination significantly.
+A toy project where I import data from meteogalicia and look for recent tendencies in the levels of common air pollutants with the ojective of checking if the recent decrease in traffic (due to coronavirus) has impacted contamination significantly.
 
 Skills:
 - Request and processing of data accessed as JSON
